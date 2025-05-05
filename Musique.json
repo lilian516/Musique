@@ -1,4 +1,5 @@
-[
+{
+"songs": [
     {
       "SongName": "Le Chanteur",
       "AuthorName": "Daniel Balavoine",
@@ -10,3 +11,5 @@
         "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/DanielBalavoine/JeNeSuisPasUnHéros.mp3"
     }
   ]
+
+}
