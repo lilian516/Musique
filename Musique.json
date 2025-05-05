@@ -9,6 +9,16 @@
         "SongName": "Je Ne suis pas un héro",
         "AuthorName": "Daniel Balavoine",
         "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/DanielBalavoine/JeNeSuisPasUnHéros.mp3"
+    },
+    {
+        "SongName": "Vivre ou survivre",
+        "AuthorName": "Daniel Balavoine",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/DanielBalavoine/VivreOuSurvivre.mp3"
+    },
+    {
+        "SongName": "Tout les cris les S.O.S",
+        "AuthorName": "Daniel Balavoine",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/DanielBalavoine/TousLesCrisLesS.O.S..mp3"
     }
   ]
 
