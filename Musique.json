@@ -31,6 +31,11 @@
         "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/JacquesBrel/Amsterdam.mp3"
     },
     {
+        "SongName": "Vesoul",
+        "AuthorName": "Jacques Brel",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/JacquesBrel/Vesoul.mp3"
+    },
+    {
         "SongName": "Ne me quitte pas",
         "AuthorName": "Jacques Brel",
         "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/JacquesBrel/NeMeQuittePas.mp3"
@@ -114,6 +119,26 @@
         "SongName": "L'Assassimphonie",
         "AuthorName": "Mozart l'Opera Rock",
         "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/OperaRock/LAssasymphonie.mp3"
+    },
+    {
+        "SongName": "Avant qu'elle parte",
+        "AuthorName": "Sexion d'assaux",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/SexionDassaut/AvantQuelleParte.mp3"
+    },
+    {
+        "SongName": "Désolé",
+        "AuthorName": "Sexion d'assaux",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/SexionDassaut/Désolé.mp3"
+    },
+    {
+        "SongName": "Ma Direction",
+        "AuthorName": "Sexion d'assaux",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/SexionDassaut/MaDirection.mp3"
+    },
+    {
+        "SongName": "Wati By Night",
+        "AuthorName": "Sexion d'assaux",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/SexionDassaut/WatiByNight.mp3"
     }
   ]
 
