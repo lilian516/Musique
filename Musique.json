@@ -1,0 +1,12 @@
+[
+    {
+      "SongName": "Le Chanteur",
+      "AuthorName": "Daniel Balavoine",
+      "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/DanielBalavoine/LeChanteur.mp3"
+    },
+    {
+        "SongName": "Je Ne suis pas un héro",
+        "AuthorName": "Daniel Balavoine",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/DanielBalavoine/JeNeSuisPasUnHéro.mp3"
+    }
+  ]
