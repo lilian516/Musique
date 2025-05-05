@@ -19,6 +19,56 @@
         "SongName": "Tout les cris les S.O.S",
         "AuthorName": "Daniel Balavoine",
         "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/DanielBalavoine/TousLesCrisLesS.O.S..mp3"
+    },
+    {
+        "SongName": "Jaune",
+        "AuthorName": "Alain",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Alain/Jaune.mp3"
+    },
+    {
+        "SongName": "Amsterdam",
+        "AuthorName": "Jacques Brel",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/JacquesBrel/Amsterdam.mp3"
+    },
+    {
+        "SongName": "Ne me quitte pas",
+        "AuthorName": "Jacques Brel",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/JacquesBrel/NeMeQuittePas.mp3"
+    },
+    {
+        "SongName": "Ces gens la",
+        "AuthorName": "Jacques Brel",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/JacquesBrel/CesGensLa.mp3"
+    },
+    {
+        "SongName": "Le retour du roi",
+        "AuthorName": "Manau",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Manau/LeRetourDuRoi.mp3"
+    },
+    {
+        "SongName": "La tribu de Dana",
+        "AuthorName": "Manau",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Manau/LaTribuDeDana.mp3"
+    },
+    {
+        "SongName": "Dans mon HLM",
+        "AuthorName": "Renaud",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Renaud/DansMonH.L.M..mp3"
+    },
+    {
+        "SongName": "Laisse Béton",
+        "AuthorName": "Renaud",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Renaud/LaisseBéton.mp3"
+    },
+    {
+        "SongName": "Manu",
+        "AuthorName": "Renaud",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Renaud/Manu.mp3"
+    },
+    {
+        "SongName": "Marche à l'ombre",
+        "AuthorName": "Renaud",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Renaud/MarcheàLombre.mp3"
     }
   ]
 
