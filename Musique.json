@@ -66,6 +66,16 @@
         "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Renaud/Manu.mp3"
     },
     {
+        "SongName": "Hexagone",
+        "AuthorName": "Renaud",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Renaud/Hexagone.mp3"
+    },
+    {
+        "SongName": "Manathan Kaboul",
+        "AuthorName": "Renaud",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Renaud/Kaboul.mp3"
+    },
+    {
         "SongName": "Marche à l'ombre",
         "AuthorName": "Renaud",
         "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Renaud/MarcheàLombre.mp3"
@@ -86,9 +96,24 @@
         "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/FrancisCabrel/LaCorrida.mp3"
     },
     {
+        "SongName": "Encore et encore",
+        "AuthorName": "Francis Cabrel",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/FrancisCabrel/EncoreEtEncore.mp3"
+    },
+    {
         "SongName": "L'encre de tes yeux",
         "AuthorName": "Francis Cabrel",
         "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/FrancisCabrel/LencreDeTesYeux.mp3"
+    },
+    {
+        "SongName": "Garçon",
+        "AuthorName": "Koxie",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Koxie/Garçon.mp3"
+    },
+    {
+        "SongName": "L'Assassimphonie",
+        "AuthorName": "Mozart l'Opera Rock",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/OperaRock/LAssasymphonie.mp3"
     }
   ]
 
