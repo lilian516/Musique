@@ -69,6 +69,26 @@
         "SongName": "Marche à l'ombre",
         "AuthorName": "Renaud",
         "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Renaud/MarcheàLombre.mp3"
+    },
+    {
+        "SongName": "Je l'aime à mourir",
+        "AuthorName": "Francis Cabrel",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/FrancisCabrel/JeLaimeAMourir.mp3"
+    },
+    {
+        "SongName": "Je t'aimais, je t'aime et je t'aimerai",
+        "AuthorName": "Francis Cabrel",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/FrancisCabrel/JeTaimais.mp3"
+    },
+    {
+        "SongName": "La corrida",
+        "AuthorName": "Francis Cabrel",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/FrancisCabrel/LaCorrida.mp3"
+    },
+    {
+        "SongName": "L'encre de tes yeux",
+        "AuthorName": "Francis Cabrel",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/FrancisCabrel/LencreDeTesYeux.mp3"
     }
   ]
 
