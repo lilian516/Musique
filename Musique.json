@@ -6,7 +6,7 @@
       "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/DanielBalavoine/LeChanteur.mp3"
     },
     {
-        "SongName": "Je Ne suis pas un héro",
+        "SongName": "Je ne suis pas un héro",
         "AuthorName": "Daniel Balavoine",
         "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/DanielBalavoine/JeNeSuisPasUnHéros.mp3"
     },
@@ -144,6 +144,31 @@
         "SongName": "Sapés comme jamais",
         "AuthorName": "Gims",
         "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Gims/SapéCommeJamais.mp3"
+    },
+    {
+        "SongName": "Zombie",
+        "AuthorName": "Gims",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Gims/Zombie.mp3"
+    },
+    {
+        "SongName": "Bella",
+        "AuthorName": "Gims",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Gims/Bella.mp3"
+    },
+    {
+        "SongName": "J'me tire",
+        "AuthorName": "Gims",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Gims/JmeTire.mp3"
+    },
+    {
+        "SongName": "Est ce que tu m'aimes",
+        "AuthorName": "Gims",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Gims/EstCeQueTuAime.mp3"
+    },
+    {
+        "SongName": "Dommage",
+        "AuthorName": "Gims",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/BigloOli/Dommage.mp3"
     }
   ]
 
