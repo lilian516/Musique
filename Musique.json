@@ -21,6 +21,26 @@
         "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/DanielBalavoine/TousLesCrisLesS.O.S..mp3"
     },
     {
+        "SongName": "L'Aziza",
+        "AuthorName": "Daniel Balavoine",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/DanielBalavoine/LAziza.mp3"
+    },
+    {
+        "SongName": "La vie ne m'apprends rien",
+        "AuthorName": "Daniel Balavoine",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/DanielBalavoine/LaVieNeMapprendRien.mp3"
+    },
+    {
+        "SongName": "Mon fils ma bataille",
+        "AuthorName": "Daniel Balavoine",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/DanielBalavoine/MonFilsMaBataille.mp3"
+    },
+    {
+        "SongName": "Quand on arrive en ville",
+        "AuthorName": "Daniel Balavoine",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/DanielBalavoine/QuandOnArriveEnVille.mp3"
+    },
+    {
         "SongName": "Jaune",
         "AuthorName": "Alain",
         "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Alain/Jaune.mp3"
@@ -169,6 +189,21 @@
         "SongName": "Dommage",
         "AuthorName": "Bigflo et Oli",
         "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/BigfloOli/Dommage.mp3"
+    },
+    {
+        "SongName": "L'hymne de nos campagnes",
+        "AuthorName": "Tryo",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Tryo/LhymneDeNosCampagnes.mp3"
+    },
+    {
+        "SongName": "Dernière Danse",
+        "AuthorName": "Kyo",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Kyo/DerniereDanse.mp3"
+    },
+    {
+        "SongName": "La Lettre",
+        "AuthorName": "Renan Luce",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/RenanLuce/LaLettre.mp3"
     }
   ]
 
