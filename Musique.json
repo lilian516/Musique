@@ -201,9 +201,24 @@
         "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Kyo/DerniereDanse.mp3"
     },
     {
+        "SongName": "Le graal",
+        "AuthorName": "Kyo",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Kyo/LeGraal.mp3"
+    },
+    {
+        "SongName": "Le chemin",
+        "AuthorName": "Kyo",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/Kyo/LeChemin.mp3"
+    },
+    {
         "SongName": "La Lettre",
         "AuthorName": "Renan Luce",
         "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/RenanLuce/LaLettre.mp3"
+    },
+    {
+        "SongName": "Les Voisines",
+        "AuthorName": "Renan Luce",
+        "AudioURL": "https://raw.githubusercontent.com/lilian516/Musique/main/RenanLuce/LesVoisines.mp3"
     }
   ]
 
